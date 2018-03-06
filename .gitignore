@@ -1,0 +1,8 @@
+/ffmpeg
+/ui
+/rend
+/OSI
+/data
+/curve
+*.exe
+*.gch
